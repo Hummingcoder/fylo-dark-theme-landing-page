@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "fylo-dark-theme-landing-page",
+  base: "/fylo-dark-theme-landing-page",
   plugins: [react()],
 });
